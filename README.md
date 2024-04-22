@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgrawalShruti0208. 
-- 👀 I’m interested in becoming a JAVA developer.
-- 🌱 I’m currently learning JAVA programming language.
+- 👀 I’m interested in becoming a Full stack Web developer.
+- 🌱 I’m currently learning from Internshala platform.
 - 📫 How to reach me? You can reach me on shrutiagrawal155@gmail.com .
 
 <!---
